@@ -12,6 +12,8 @@ Sou Analista de Dados formado pela EBAC, com uma sólida base em análise e visu
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorrandaudosso&repo=Analise-exploratoria-EBC-Loggi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lorrandaudosso&repo=Projeto-covid&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorrandaudosso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
